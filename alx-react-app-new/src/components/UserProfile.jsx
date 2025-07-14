@@ -1,4 +1,5 @@
 // src/components/UserProfile.jsx
+//
 // import React from 'react';
 //
 // const UserProfile = ({ name, age, bio }) => {
