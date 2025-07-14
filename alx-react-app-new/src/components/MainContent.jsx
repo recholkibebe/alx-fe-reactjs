@@ -1,10 +1,15 @@
-function MainContent() {
-	  return (
-		      <main>
-		        <p>I love to visit New York, Paris, and Tokyo.</p>
-		      </main>
-		    );
-}
-
-export default MainContent;
-
+// src/components/MainContent.jsx
+// import React from 'react';
+// import UserProfile from './UserProfile';
+//
+// const MainContent = () => {
+//   return (
+//       <main style={{ backgroundColor: '#e8f0fe', padding: '30px' }}>
+//             <UserProfile name="Alice" age={25} bio="Loves hiking and photography." />
+//                   <UserProfile name="Brian" age={32} bio="Food blogger and street explorer." />
+//                       </main>
+//                         );
+//                         };
+//
+//                         export default MainContent;
+//

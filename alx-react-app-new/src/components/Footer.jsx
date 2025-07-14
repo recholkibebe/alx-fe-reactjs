@@ -1,10 +1,14 @@
-function Footer() {
-	  return (
-		      <footer>
-		        <p>© 2023 City Lovers</p>
-		      </footer>
-		    );
-}
-
-export default Footer;
+// src/components/Footer.jsx
+// import React from 'react';
+//
+// const Footer = () => {
+//   return (
+//       <footer style={{ backgroundColor: '#222', color: '#fff', textAlign: 'center', padding: '15px', marginTop: '20px' }}>
+//             <p>&copy; 2025 My Favorite Cities App</p>
+//                 </footer>
+//                   );
+//                   };
+//
+//                   export default Footer;
+//
 
