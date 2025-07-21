@@ -9,4 +9,4 @@ This project was built as part of the ALX Front-End React curriculum. It demonst
 
 ## Project Structure
 
-my app
+my app trigger checker
