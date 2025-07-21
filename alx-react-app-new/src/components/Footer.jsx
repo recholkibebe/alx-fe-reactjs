@@ -1,22 +1,10 @@
-import React from 'react';
-
-const Footer = () => {
+function Footer() {
 	  return (
-		      <footer
-		        style={{
-				        backgroundColor: '#222',
-					        color: '#fff',
-					        textAlign: 'center',
-					        padding: '15px',
-					        marginTop: '20px',
-					        fontSize: '0.9rem'
-				      }}
-		      >
-		        <p>&copy; 2025 My Favorite Cities App</p>
+		      <footer>
+		        <p>© 2023 City Lovers</p>
 		      </footer>
 		    );
-};
+}
 
 export default Footer;
-
 

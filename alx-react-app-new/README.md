@@ -1,26 +1,40 @@
-Styling, States, Rendering, Routes and Hooks
- Novice
-  Weight: 1
-   Project will start Jul 14, 2025 12:00 AM, must end by Jul 21, 2025 12:00 AM
-    Checker was released at Jul 14, 2025 12:00 AM
-     An auto review will be launched at the deadline
+# ALX React App
 
+This is a simple React application created as part of the ALX Front-End curriculum.
 
+## Getting Started
 
-     In the “Styling, States, Rendering, Routes, and Hooks” project, you will enhance your React application by applying inline CSS styling, managing state with hooks, implementing routing, and refactoring to use the Context API. This project is designed for novice learners who aim to build robust and well-structured React applications. By the end of this project, you will have a comprehensive understanding of React’s core concepts and best practices for creating interactive and maintainable web applications.
+### Installation
 
-     Learning Objectives
-     By the end of this project, you will be able to:
+```bash
+npm install
+Running the App
+bash
+Copy
+Edit
+npm run dev
+The app will be available at http://localhost:5173.
 
-     Apply Inline CSS Styling to React Components:
+Project Purpose
+This project demonstrates basic React concepts like:
 
-     Enhance the visual appearance of your React components using inline CSS.
-     Create a Simple Counter Application Using State and Hooks:
+JSX
 
-     Build a counter application using the useState hook to manage component state.
-     Build a Simple Company Website with React:
+Components
 
-     Create a multi-page React application using React Router for routing.
-     Refactor Prop Drilling to Use Context API:
+Props
 
-     Simplify data flow in your React application by refactoring to use the Context API.
+State
+
+yaml
+Copy
+Edit
+
+---
+
+➡️ Save the file, commit the changes:
+
+```bash
+git add README.md
+git commit -m "Update README with project description"
+git push
